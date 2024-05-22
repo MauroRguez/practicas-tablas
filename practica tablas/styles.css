@@ -1,0 +1,25 @@
+
+.tableone {
+    border: 5px solid black;
+    
+}
+.tableone th, .tableone td{
+  border: 2px solid black;
+  border-collapse: collapse;
+
+}
+
+.tableone th{
+    background-color: rgb(119, 119, 186);
+}
+.tdone{
+ background-color: yellow;
+}
+ .tdtwo{
+    background-color: blue;
+ }
+ .tdthree{
+    background-color: red;
+ }
+
+
